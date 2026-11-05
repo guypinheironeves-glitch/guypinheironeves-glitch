@@ -1,16 +1,17 @@
-## Hi there 👋
+Guylherme Neves
 
-<!--
-**guypinheironeves-glitch/guypinheironeves-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista e desenvolvedor de sistemas em Campina Grande, PB. Trabalho com qualidade de software, análise de sistemas, desenvolvimento e engenharia de IA: entendo o processo antes de propor a solução, construo o que ele pede e provo que funciona com testes.
 
-Here are some ideas to get you started:
+Systems analyst and developer from Brazil, focused on software quality, automation and AI engineering. ISTQB CTFL v4.0.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfólio / Portfolio: guyneves.pages.dev
+
+Qualidade de software: ISTQB CTFL v4.0, casos de teste, testes funcionais e de aceitação, registro e reteste de defeitos
+Desenvolvimento: Python, JavaScript, React, Node.js, PostgreSQL
+IA e automação: n8n, APIs de LLM, ferramentas MCP, engenharia de prompt
+
+A maior parte do meu trabalho fica em repositórios privados, a pedido das empresas. Os estudos de caso, com vídeos e resultados, estão no portfólio.
+
+Most of my work lives in private repositories. The case studies, with videos and results, are on the portfolio.
+
+LinkedIn · guylhermepinheiro.dev@gmail.com
