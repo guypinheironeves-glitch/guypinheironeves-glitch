@@ -4,7 +4,7 @@ Analista e desenvolvedor de sistemas em Campina Grande, PB. Trabalho com qualida
 
 Systems analyst and developer from Brazil, focused on software quality, automation and AI engineering. ISTQB CTFL v4.0.
 
-Portfólio / Portfolio: guyneves.pages.dev
+Portfólio / Portfolio: https://guyneves.pages.dev/
 
 Qualidade de software: ISTQB CTFL v4.0, casos de teste, testes funcionais e de aceitação, registro e reteste de defeitos
 Desenvolvimento: Python, JavaScript, React, Node.js, PostgreSQL
